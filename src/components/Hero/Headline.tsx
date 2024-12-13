@@ -9,7 +9,7 @@ export function Headline() {
         <div className="h-screen flex flex-col justify-center text-light justify-center ">
             <H1 className="text-center">
                 Nice to meet you!<br/>
-                I&apos;m <Mark>Gustavo Coimbra</Mark>.
+                I&apos;m <Mark>Gustavo Coimbra</Mark>
             </H1>
             <P className="max-w-xl md:text-lg mx-auto !mb-16 text-center">
                 Based in Brazil, I&apos;m a full-stack developer passionate about building amazing web interfaces that provide great user experiences.
