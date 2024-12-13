@@ -6,7 +6,7 @@ import { Button } from '@/components/_Elements/Button';
 
 export function Headline() {
     return (
-        <div className="h-full text-light">
+        <div className="h-screen flex flex-col justify-center text-light justify-center ">
             <H1>
                 Nice to meet you!<br/>
                 I&apos;m <Mark>Gustavo Coimbra</Mark>.

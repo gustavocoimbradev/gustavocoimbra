@@ -5,6 +5,6 @@ type props = {
 
 export function Section({children, className}:props) {
     return (
-        <section className={`my-20 ${className}`}>{children}</section>
+        <section className={`${className}`}>{children}</section>
     )
 }

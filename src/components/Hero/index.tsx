@@ -5,8 +5,8 @@ import { Headline } from '@/components/Hero/Headline';
 
 export function Hero() {
     return (
-        <Section>
-            <Container>
+        <Section className="h-screen">
+            <Container className="justify-center">
                 <Headline/>
             </Container>
         </Section>
