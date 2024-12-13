@@ -11,7 +11,7 @@ export function Headline() {
                 Nice to meet you!<br/>
                 I&apos;m <Mark>Gustavo Coimbra</Mark>
             </H1>
-            <P className="max-w-xl md:text-lg mx-auto !mb-16 text-center">
+            <P className="max-w-xl md:text-lg mx-auto !mb-12 text-center">
                 Based in Brazil, I&apos;m a full-stack developer passionate about building amazing web interfaces that provide great user experiences.
             </P>
             <div className="flex gap-4 items-center justify-center">
