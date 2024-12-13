@@ -6,7 +6,7 @@ import { Headline } from '@/components/Hero/Headline';
 export function Hero() {
     return (
         <Section className="h-screen">
-            <Container className="justify-center">
+            <Container>
                 <Headline/>
             </Container>
         </Section>
