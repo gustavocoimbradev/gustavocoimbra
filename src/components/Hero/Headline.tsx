@@ -9,10 +9,10 @@ export function Headline() {
         <div className="h-full text-light">
             <H1>
                 Nice to meet you!<br/>
-                I'm <Mark>Gustavo Coimbra</Mark>.
+                I&apos;m <Mark>Gustavo Coimbra</Mark>.
             </H1>
             <P className="max-w-xl md:text-lg !mb-16">
-                Based in Brazil, I'm a full-stack developer passionate about building amazing web interfaces that provide great user experiences.
+                Based in Brazil, I&apos;m a full-stack developer passionate about building amazing web interfaces that provide great user experiences.
             </P>
             <div className="flex gap-4">
                 <Button href="https://www.linkedin.com/in/gustavocoimbradev/" variant="linkedin">Linkedin</Button>
