@@ -20,6 +20,6 @@ export function Button({children, className, href, variant}:props) {
     }
 
     return (
-        <Link href={href} className={` transition-all duration-300  py-4 px-12 rounded-full font-bold ${classes} ${className}`}>{children}</Link>
+        <Link target="_blank" href={href} className={` transition-all duration-300  py-4 px-12 rounded-full font-bold ${classes} ${className}`}>{children}</Link>
     )
 }

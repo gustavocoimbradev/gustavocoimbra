@@ -16,7 +16,7 @@ export function Headline() {
             </P>
             <div className="flex gap-4">
                 <Button href="https://www.linkedin.com/in/gustavocoimbradev/" variant="linkedin">Linkedin</Button>
-                <Button href="github.com/gustavocoimbradev/" variant="github">Github</Button>
+                <Button href="https://github.com/gustavocoimbradev/" variant="github">Github</Button>
             </div>
         </div>
     )
