@@ -10,10 +10,11 @@ export default {
     extend: {
       colors: {
         dark: '#151515',
-        light: '#f7f7f7'
+        light: '#f7f7f7',
+        primary: { ...require('tailwindcss/colors').indigo },
+        secondary: { ...require('tailwindcss/colors').emerald },
       }
     },
-  
   },
   plugins: [],
 } satisfies Config;

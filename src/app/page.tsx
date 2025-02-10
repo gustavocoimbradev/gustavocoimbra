@@ -1,12 +1,16 @@
-import { Main } from '@/components/_Layout/Main';
-import { Hero } from '@/components/Hero';
+import Image from 'next/image';
+
+import { Hero } from '@/sections/Hero';
 
 export default function Home() {
   return (
     <>
-      <Main>
-        <Hero/>
-      </Main>
+      <Hero/>
+      <section className="h-[100dvh]">
+        <div className="container">
+          <h2>Sobre mim</h2>
+        </div>
+      </section>
     </>
   );
 }
