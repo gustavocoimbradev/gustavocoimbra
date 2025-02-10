@@ -16,8 +16,8 @@ export function Hero() {
                 <h1><strong>DEV <span className="text-primary-500">FULLSTACK</span></strong></h1>
                 <p className="mb-6">Especialista em <strong>PHP, SCSS, JS, Wordpress, Laravel, Next.JS e Tailwind</strong> com <strong>4 anos de experiência</strong> profissional no mercado.</p>
                 <div className="flex items-center gap-4">
-                    <a href="#" className="btn-primary">Contrate-me</a>
-                    <a href="#" className="btn-secondary">Ver portfolio</a>
+                    <a href="https://linkedin.com/in/gustavocoimbradev" className="btn-primary">Contrate-me</a>
+                    <a href="https://github.com/gustavocoimbradev" className="btn-secondary">Ver Github</a>
                 </div>
                 </div>
             </div>
