@@ -145,6 +145,14 @@
         { "label": "Wordpress", "color": "#fff" },
         { "label": "MZ Group", "color": "#fff" }
       ]
+    },{
+      "image": "assets/img/iochpe.png",
+      "name": "Iochpe RI",
+      "type": "Investidores",
+      "badges": [
+        { "label": "Wordpress", "color": "#fff" },
+        { "label": "MZ Group", "color": "#fff" }
+      ]
     },
     {
       "image": "assets/img/mills.png",
